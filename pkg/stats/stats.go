@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/ahafizi/bank/pkg/bank/types"
+	"github.com/ahafizi/bank/pkg/types"
 )
 
 func Avg(payments []types.Payment) types.Money {
