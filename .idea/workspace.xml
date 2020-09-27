@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fac09c22-52f1-4332-ad97-7fea45986859" name="Default Changelist" comment="" />
+    <list default="true" id="fac09c22-52f1-4332-ad97-7fea45986859" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/stats/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/stats/stats.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,12 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1i5lE4ZKkhVFt1UjbbVluwLGeYn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,32 +38,75 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Test.example_test.go">
-    <configuration name="ExampleAvg in example_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)">
+    <configuration name="go build github.com/ahafizi/stats/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="stats" />
-      <working_directory value="$PROJECT_DIR$/pkg/stats" />
-      <framework value="gotest" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/main.go" />
+      <package value="github.com/ahafizi/stats/cmd" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pkg/stats/example_test.go" />
-      <pattern value="^\QExampleAvg\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="example_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
-      <kind value="FILE" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pkg/stats/example_test.go" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="stats" />
+      <working_directory value="$PROJECT_DIR$/pkg/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahafizi/stats/pkg/stats" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="stats" />
+      <working_directory value="$PROJECT_DIR$/pkg/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahafizi/stats/pkg/stats" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExampleTotalInCategory_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="stats" />
+      <working_directory value="$PROJECT_DIR$/pkg/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahafizi/stats/pkg/stats" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QExampleTotalInCategory_inFailedStatus\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.example_test.go" />
-        <item itemvalue="Go Test.ExampleAvg in example_test.go" />
+        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)" />
+        <item itemvalue="Go Build.go build github.com/ahafizi/stats/cmd" />
+        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" />
+        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.ExampleTotalInCategory_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -69,27 +124,46 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
   <component name="WindowStateProjectService">
     <state x="702" y="332" width="506" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601209488999">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="702" y="332" width="506" height="423" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601209488999" />
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom" timestamp="1601208792750">
+    <state width="1920" height="294" key="GridCell.Tab.0.bottom" timestamp="1601221932103">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601208792750" />
-    <state width="1920" height="294" key="GridCell.Tab.0.center" timestamp="1601208792750">
+    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
+    <state width="1920" height="294" key="GridCell.Tab.0.center" timestamp="1601221932103">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601208792750" />
-    <state width="1920" height="294" key="GridCell.Tab.0.left" timestamp="1601208792750">
+    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
+    <state width="1920" height="294" key="GridCell.Tab.0.left" timestamp="1601221932102">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601208792750" />
-    <state width="1920" height="294" key="GridCell.Tab.0.right" timestamp="1601208792750">
+    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932102" />
+    <state width="1920" height="294" key="GridCell.Tab.0.right" timestamp="1601221932103">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601208792750" />
+    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
+    <state width="1920" height="363" key="GridCell.Tab.1.bottom" timestamp="1601221924239">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="363" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
+    <state width="1920" height="363" key="GridCell.Tab.1.center" timestamp="1601221924239">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="363" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
+    <state width="1920" height="363" key="GridCell.Tab.1.left" timestamp="1601221924239">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="363" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
+    <state width="1920" height="363" key="GridCell.Tab.1.right" timestamp="1601221924239">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1920" height="363" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601205947433">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
