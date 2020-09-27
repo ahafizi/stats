@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac09c22-52f1-4332-ad97-7fea45986859" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pkg/stats/stats_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/go.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/stats/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/example_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/stats.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +45,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)">
-    <configuration name="go build github.com/ahafizi/stats/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="stats" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/cmd/main.go" />
-      <package value="github.com/ahafizi/stats/cmd" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats">
+    <configuration name="TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -64,10 +54,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <pattern value="^\QTestCategoriesAvg_allIsGood\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTotalInCategory_allIsGood in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -75,10 +65,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <pattern value="^\QTestTotalInCategory_allIsGood\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -86,10 +76,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QExampleAvg_inFailedStatus\E$" />
+      <pattern value="^\QTestTotalInCategory_empty\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="ExampleTotalInCategory_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -97,16 +87,27 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QExampleTotalInCategory_inFailedStatus\E$" />
+      <pattern value="^\QTestTotalInCategory_empty\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="stats" />
+      <working_directory value="$PROJECT_DIR$/pkg/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/ahafizi/stats/pkg/stats" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestTotalInCategory_empty\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (2)" />
-        <item itemvalue="Go Build.go build github.com/ahafizi/stats/cmd" />
-        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" />
-        <item itemvalue="Go Test.ExampleAvg_inFailedStatus in github.com/ahafizi/stats/pkg/stats" />
-        <item itemvalue="Go Test.ExampleTotalInCategory_inFailedStatus in github.com/ahafizi/stats/pkg/stats (1)" />
+        <item itemvalue="Go Test.TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (1)" />
+        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (4)" />
+        <item itemvalue="Go Test.TestTotalInCategory_allIsGood in github.com/ahafizi/stats/pkg/stats" />
       </list>
     </recent_temporary>
   </component>
@@ -132,22 +133,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="702" y="332" width="506" height="423" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601209488999" />
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom" timestamp="1601221932103">
+    <state width="1920" height="294" key="GridCell.Tab.0.bottom" timestamp="1601226467425">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
-    <state width="1920" height="294" key="GridCell.Tab.0.center" timestamp="1601221932103">
+    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
+    <state width="1920" height="294" key="GridCell.Tab.0.center" timestamp="1601226467425">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
-    <state width="1920" height="294" key="GridCell.Tab.0.left" timestamp="1601221932102">
+    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
+    <state width="1920" height="294" key="GridCell.Tab.0.left" timestamp="1601226467424">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932102" />
-    <state width="1920" height="294" key="GridCell.Tab.0.right" timestamp="1601221932103">
+    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467424" />
+    <state width="1920" height="294" key="GridCell.Tab.0.right" timestamp="1601226467425">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221932103" />
+    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
     <state width="1920" height="363" key="GridCell.Tab.1.bottom" timestamp="1601221924239">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -164,9 +165,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1920" height="363" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601205947433">
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601222723885">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601205947433" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601222723885" />
   </component>
 </project>
