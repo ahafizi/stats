@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac09c22-52f1-4332-ad97-7fea45986859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pkg/stats/stats_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/go.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/stats/stats.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/stats/stats_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/stats/stats_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +44,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats">
-    <configuration name="TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestPeriodsDynamic_FourthTest in github.com/ahafizi/stats/pkg/stats">
+    <configuration name="TestPeriodsDynamic_FourthTest in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -54,10 +53,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestCategoriesAvg_allIsGood\E$" />
+      <pattern value="^\QTestPeriodsDynamic_FourthTest\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTotalInCategory_allIsGood in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -65,10 +64,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestTotalInCategory_allIsGood\E$" />
+      <pattern value="^\QTestPeriodsDynamic_ThirdTest\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -76,10 +75,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestTotalInCategory_empty\E$" />
+      <pattern value="^\QTestPeriodsDynamic_ThirdTest\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -87,10 +86,10 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestTotalInCategory_empty\E$" />
+      <pattern value="^\QTestPeriodsDynamic_ThirdTest\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go test github.com/ahafizi/stats/pkg/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="stats" />
       <working_directory value="$PROJECT_DIR$/pkg/stats" />
       <framework value="gotest" />
@@ -98,16 +97,15 @@
       <package value="github.com/ahafizi/stats/pkg/stats" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestTotalInCategory_empty\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestCategoriesAvg_allIsGood in github.com/ahafizi/stats/pkg/stats" />
-        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (1)" />
-        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats" />
-        <item itemvalue="Go Test.TestTotalInCategory_empty in github.com/ahafizi/stats/pkg/stats (4)" />
-        <item itemvalue="Go Test.TestTotalInCategory_allIsGood in github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.TestPeriodsDynamic_FourthTest in github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.go test github.com/ahafizi/stats/pkg/stats" />
+        <item itemvalue="Go Test.TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (4)" />
+        <item itemvalue="Go Test.TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (3)" />
+        <item itemvalue="Go Test.TestPeriodsDynamic_ThirdTest in github.com/ahafizi/stats/pkg/stats (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,38 +131,42 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="702" y="332" width="506" height="423" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601209488999" />
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom" timestamp="1601226467425">
+    <state width="1368" height="182" key="GridCell.Tab.0.bottom" timestamp="1601361749318">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1368" height="182" key="GridCell.Tab.0.bottom/0.27.1368.741/1920.0.1920.1080@0.27.1368.741" timestamp="1601361749318" />
+    <state width="1920" height="363" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1368" height="182" key="GridCell.Tab.0.center" timestamp="1601361749317">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1368" height="182" key="GridCell.Tab.0.center/0.27.1368.741/1920.0.1920.1080@0.27.1368.741" timestamp="1601361749317" />
+    <state width="1920" height="363" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1368" height="182" key="GridCell.Tab.0.left" timestamp="1601361749317">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1368" height="182" key="GridCell.Tab.0.left/0.27.1368.741/1920.0.1920.1080@0.27.1368.741" timestamp="1601361749317" />
+    <state width="1920" height="363" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1368" height="182" key="GridCell.Tab.0.right" timestamp="1601361749317">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1368" height="182" key="GridCell.Tab.0.right/0.27.1368.741/1920.0.1920.1080@0.27.1368.741" timestamp="1601361749317" />
+    <state width="1920" height="363" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1920" height="363" key="GridCell.Tab.1.bottom" timestamp="1601227192186">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
-    <state width="1920" height="294" key="GridCell.Tab.0.center" timestamp="1601226467425">
+    <state width="1920" height="363" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192186" />
+    <state width="1920" height="363" key="GridCell.Tab.1.center" timestamp="1601227192185">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
-    <state width="1920" height="294" key="GridCell.Tab.0.left" timestamp="1601226467424">
+    <state width="1920" height="363" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1920" height="363" key="GridCell.Tab.1.left" timestamp="1601227192185">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467424" />
-    <state width="1920" height="294" key="GridCell.Tab.0.right" timestamp="1601226467425">
+    <state width="1920" height="363" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192185" />
+    <state width="1920" height="363" key="GridCell.Tab.1.right" timestamp="1601227192186">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="294" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601226467425" />
-    <state width="1920" height="363" key="GridCell.Tab.1.bottom" timestamp="1601221924239">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="363" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
-    <state width="1920" height="363" key="GridCell.Tab.1.center" timestamp="1601221924239">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="363" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
-    <state width="1920" height="363" key="GridCell.Tab.1.left" timestamp="1601221924239">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="363" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
-    <state width="1920" height="363" key="GridCell.Tab.1.right" timestamp="1601221924239">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="363" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601221924239" />
+    <state width="1920" height="363" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1601227192186" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601222723885">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
